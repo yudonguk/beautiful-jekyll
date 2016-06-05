@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: local image
 ---
 
 This is my first post, how exciting!
